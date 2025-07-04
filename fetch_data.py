@@ -4,7 +4,7 @@ import pandas as pd
 def fetch_coin_data():
     # Gerçek API entegrasyonu CoinGecko ile yapılacak
     data = {
-        "Coin": ["PEPE", "FLOKI", "DOGE"],
+        "Coin": ["PEPE", "FLOKI", "DOGE",''XRP'',''SHIBA'',''ARB'',''WIF''],
         "Kapanış Fiyatı ($)": [0.0000098, 0.000076, 0.123],
         "RSI": [35, 55, 78],
         "MACD": ["BUY", "SELL", "SELL"],
