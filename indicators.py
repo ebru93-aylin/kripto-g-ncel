@@ -1,0 +1,1 @@
+# Teknik göstergeler burada yer alacak

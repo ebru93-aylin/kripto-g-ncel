@@ -1,2 +1,3 @@
-# kripto-g-ncel
-Kripto sinyalleri, AI önerileri ve teknik analiz paneli.
+# Kripto AI Sinyal Paneli
+
+Bu uygulama Streamlit üzerinde çalışır. CoinGecko API kullanır.
