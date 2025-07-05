@@ -9,9 +9,9 @@ def fetch_coin_data():
         "DOGE": "dogecoin",
         "ZKSYNC": "zksync",
         "XRP": "ripple",
-        "WIF": "dogwifhat",
-        "SHIBA": "shiba-inu",
-        "ARBITRUM": "arbitrum",
+        "dogwifhat": "dogwifhat",
+        "shiba-inu": "shiba-inu",
+        "arbitrum": "arbitrum",
         "BONK": "bonk",
     }
     rows = []
